@@ -1,0 +1,19 @@
+﻿  Enemy.cpp
+  Game.cpp
+C:\Users\botwf\source\repos\MMG\MMG\Enemy.h(24,38): error C4596: 'getBounds': illegal qualified name in member declaration
+  (compiling source file 'Enemy.cpp')
+  
+C:\Users\botwf\source\repos\MMG\MMG\Enemy.cpp(5,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\botwf\source\repos\MMG\MMG\Enemy.cpp(35,45): error C2761: 'const sf::FloatRect Enemy::getBounds(void) const': redeclaration of member is not allowed
+C:\Users\botwf\source\repos\MMG\MMG\Enemy.cpp(36,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\botwf\source\repos\MMG\MMG\Enemy.h(24,38): error C4596: 'getBounds': illegal qualified name in member declaration
+  (compiling source file 'Game.cpp')
+  
+C:\Users\botwf\source\repos\MMG\MMG\Game.cpp(139,17): error C2065: 'i': undeclared identifier
+C:\Users\botwf\source\repos\MMG\MMG\Game.cpp(142,21): error C2065: 'i': undeclared identifier
+C:\Users\botwf\source\repos\MMG\MMG\Game.cpp(144,48): error C2065: 'i': undeclared identifier
+  main.cpp
+C:\Users\botwf\source\repos\MMG\MMG\Enemy.h(24,38): error C4596: 'getBounds': illegal qualified name in member declaration
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
